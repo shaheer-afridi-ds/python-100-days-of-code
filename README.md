@@ -2,7 +2,6 @@
 
 ![Progress](https://img.shields.io/badge/Days%20Completed-01%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-Python-yellow)
-![Course](https://img.shields.io/badge/Course-Angela%20Yu-orange)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 ![Author](https://img.shields.io/badge/Author-Shaheer%20Afridi-purple)
 ![Field](https://img.shields.io/badge/Field-Data%20Science-red)
