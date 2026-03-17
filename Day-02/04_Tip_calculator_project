@@ -1,0 +1,11 @@
+print("Hey, Welcome To Discount Calculator!\n")
+print("In Order To Calculate The Discount Please Tell Us: ")
+bill = float(input("How Much Was The Total Bill? $"))
+discount_percentage = int(input("What is the discount percentage? "))
+
+total_discount = bill * discount_percentage / 100
+total_bill_after_discount = bill - total_discount
+
+print(f"Your Total bill after Discount is: $ {round(total_bill_after_discount,2)}")
+print(f"You saved {round(total_discount,2)}$")
+print("Thank You for shopping , See you next time")
