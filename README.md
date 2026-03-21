@@ -1,6 +1,6 @@
 # 🐍 python-100-days-of-code
 
-![Progress](https://img.shields.io/badge/Days%20Completed-04%2F100-blue)
+![Progress](https://img.shields.io/badge/Days%20Completed-05%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-Python-yellow)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-green)
 ![Author](https://img.shields.io/badge/Author-Shaheer%20Afridi-purple)
@@ -13,13 +13,14 @@ I am completing the 100 Days of Python challenge and uploading my daily exercise
 
 ## 📅 Progress Tracker
 
-| Day | Project | Status |
-|-----|---------|--------|
+| Day   | Project                                                                                     | Status   |
+|-------|--------------------------------------------------------------------------------------------|----------|
 | Day 01 | Printing, Strings, Inputs, Band Name Generator                                             | ✅ Done |
 | Day 02 | Data Types, Type Checking, Type Conversion, Operators, BMI Calculator, Discount Calculator | ✅ Done |
 | Day 03 | Conditional Statements, Nested If-Else, Logical Operators, Multiple Ifs, Mini Games, Flowcharts | ✅ Done |
 | Day 04 | Randomization, Lists, IndexError Demo, Coin Flip, Bill Picker, Rock-Paper-Scissors Game   | ✅ Done |
-| Day 05 | Coming Soon... | ⏳ |
+| Day 05 | Loops, Range, FizzBuzz, Highest Score Finder, Sum Calculation, Password Generator (Easy & Hard), Study Schedule Generator,Name generator | ✅ Done |
+| Day 06 | Coming Soon... | ⏳ |
 
 ---
 
